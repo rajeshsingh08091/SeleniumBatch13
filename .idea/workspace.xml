@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b854ac5-8954-4772-a136-a50c3df464d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumBatch13.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/review/Class1/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/review/Class1/linksExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/selenium/Class3/XpathDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/selenium/Class4/ClassNote" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/selenium/Class4/ClearCommandDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/selenium/Class4/CssSelectorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/selenium/Class4/ElementCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/selenium/Class4/GetAllLinksFromEbay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/selenium/Class5/AmazonDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/selenium/Class5/CheckboxDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/selenium/Class5/HandleDDWithIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/selenium/Class5/HandlingDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/selenium/Class5/HandlingMultipleSelectDD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/google.java" afterDir="false" />
-    </list>
+    <list default="true" id="1b854ac5-8954-4772-a136-a50c3df464d4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
